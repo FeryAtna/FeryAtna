@@ -50,10 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/feryatna/feryatna/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feryatna/feryatna/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feryatna/feryatna/output/pacman-contribution-graph.svg">
